@@ -1,6 +1,6 @@
 go-ethereum
-    accounts          ethereum accounts management  	                
-    bmt			          binary merkel tree
+	accounts          ethereum accounts management  	                
+    bmt			binary merkel tree
     build			        scripts to build project
     cmd			          command line tools, which will be compiled into executable
 	      /abigen		    Source code generator to convert Ethereum contract definitions into easy to use, compile-time type-safe Go packages
