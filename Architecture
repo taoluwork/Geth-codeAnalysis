@@ -1,12 +1,12 @@
 go-ethereum
-	accounts          ethereum accounts management  	                
-    bmt			binary merkel tree
-    build			        scripts to build project
-    cmd			          command line tools, which will be compiled into executable
+	accounts        ethereum accounts management  	                
+    bmt				binary merkel tree
+    build			scripts to build project
+    cmd			    command line tools, which will be compiled into executable
 	      /abigen		    Source code generator to convert Ethereum contract definitions into easy to use, compile-time type-safe Go packages
-	      /bootnode	    启动一个仅仅实现网络发现的节点
-	      /evm		      以太坊虚拟机的开发工具， 用来提供一个可配置的，受隔离的代码调试环境
-        /faucet		
+	      /bootnode	    	启动一个仅仅实现网络发现的节点
+	      /evm		      	以太坊虚拟机的开发工具， 用来提供一个可配置的，受隔离的代码调试环境
+		  /faucet		
 	      /geth		      以太坊命令行客户端，最重要的一个工具
 	      /p2psim		    提供了一个工具来模拟http的API
 	      /puppeth	    创建一个新的以太坊网络的向导
